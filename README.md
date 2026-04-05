@@ -1,6 +1,6 @@
 # react-regular-exam
 
-The course project is a Social Network. Due to limited time and lack of experience, the application is not fully completed, but it meets all the specified requirements.
+The course project is a Social Network. Due to limited time, the application is not fully completed, but it meets all the specified requirements.
 The design of the application is inspired by X.com.
 The application has both a public and a private section.
 The public section is accessible without authentication and includes a guest page, login forms, and create account forms.
@@ -28,5 +28,3 @@ Media queries have been added for mobile screen compatibility.
 A spinner has been added in many places for a better user experience, along with new redirects.
 The profile page and the edit functionality are fully completed.
 Two new repositories have been added in Cloudinary. And the corresponding functionality has been added.
-I’m uploading the README at the last moment. Due to time constraints, it’s possible that I may have missed some important details.
-I hope you are satisfied with the result!
